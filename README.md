@@ -4,4 +4,4 @@ Classical Forensic-Based Deepfake Detection
 
 
 
-![cropped image of suspected picture](images\report\croped_01.jpg)
+![cropped image of suspected picture](images/report/croped_01.jpg)
