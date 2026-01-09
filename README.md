@@ -99,11 +99,11 @@ No randomness, no black-box decisions.
 
 First, an image of the original person is uploaded (usually a celebrity or well-known individual, since deepfake images commonly involve public figures), for example:
 
-[Orignal picture](images/pics/target_03.jpeg)
+![Orignal picture](images/pics/target_03.jpeg)
 
 Next, the suspected image is uploaded, where the face may have been swapped or manipulated using a celebrity’s face, for example:
 
-[Suspected picture](images/pics/swap_03.jpeg)
+![Suspected picture](images/pics/swap_03.jpeg)
 
 After uploading both images, the system performs face-only forensic analysis and generates a JSON-based result containing structural similarity, manipulation risk, and an overall verdict.
 
