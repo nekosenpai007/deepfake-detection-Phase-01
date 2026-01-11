@@ -155,16 +155,6 @@ It serves as a **foundation** that can later be extended with **pretrained AI mo
 
 ---
 
-## Future Enhancements (Optional)
-
-- Facial landmark ratio analysis
-- Temporal consistency checks for videos
-- Pretrained deep learning embeddings (no training)
-- Automated forensic report generation
-- Tampering heatmaps
-
----
-
 ## Final Note
 
 This system focuses on **detecting manipulation**, not identifying people.
