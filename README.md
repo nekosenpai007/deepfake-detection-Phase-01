@@ -103,7 +103,7 @@ First, an image of the original person is uploaded (usually a celebrity or well-
 
 Next, the suspected image is uploaded, where the face may have been swapped or manipulated using a celebrity’s face, for example:
 
-<img src="images/pics/swap_03.jpeg" width="300" height="500" />
+<img src="images/pics/swap_03.jpeg" width="200" height="300" />
 
 
 After uploading both images, the system performs face-only forensic analysis and generates a JSON-based result containing structural similarity, manipulation risk, and an overall verdict.
